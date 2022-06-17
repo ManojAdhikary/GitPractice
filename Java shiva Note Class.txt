@@ -1,0 +1,54 @@
+core java --> Standalone app
+servlet/jsp--> web application
+jdbc/hibernate --> pesitence logic
+webservices/ restservice --> distributed
+SPRING - is fromework can simplify application development like standalone/web/distributed app.
+
+spring core-
+spring jdbc
+spring MVC
+springOrm
+
+springAop
+SpringBoot
+springDataJpa
+
+Interface21
+RodJhonson
+
+SpringFramework designed using Dependency injection DI
+DI--> the process of injecting DI (dependecnies) into dependent it's called DI (dependency injection). 
+
+Eg. 
+class Student---> dependent 
+{
+int sno; ---> dependencies
+String sno;
+String sadd;
+}
+
+
+- spring framework is open source / light weight framework.
+
+Pojo (class)/Poji(interface)
+
+class A{}
+
+class Demo{}
+
+interface X {}
+interface y {}
+
+predefined templates is given by s/w(springf framework) to simplify application development.
+
+Jdbc template, hibernate templete.
+
+JDBCTemplete:
+to interact with db s/w using jdbc
+
+register driver establish connection with db s/w , create statement, release resource.
+
+
+
+
+
